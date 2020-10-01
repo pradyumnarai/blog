@@ -1,4 +1,4 @@
-# CSH Blog
+# .CSH BLOG.
 
 ## Installation
 * Clone this repo
